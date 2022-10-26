@@ -1,0 +1,62 @@
+-----------------------------------------------------------------
+|    Pavardė |     Vardas |  Grupė |    Mėnuo | Užduoties kodas |
+-----------------------------------------------------------------
+|   surname1 |      name1 | group1 |   month1 |              E1 |
+|   surname2 |      name2 | group2 |   month2 |              E2 |
+|   surname3 |      name3 | group1 |   month2 |              E3 |
+|   surname4 |      name4 | group3 |   month3 |              E4 |
+|   surname5 |      name5 | group1 |   month3 |              E5 |
+|   surname6 |      name6 | group2 |   month1 |              E6 |
+|   surname7 |      name7 | group1 |   month1 |              E7 |
+|   surname8 |      name8 | group3 |   month2 |              E8 |
+|   surname9 |      name9 | group2 |   month1 |              E9 |
+|  surname10 |     name10 | group3 |   month1 |             E10 |
+|  surname11 |     name11 |  group |   month1 |              E9 |
+|  surname12 |     name12 |  group |   month1 |              E8 |
+|  surname13 |     name13 |  group |   month1 |              E7 |
+|  surname14 |     name14 |  group |   month3 |              E6 |
+|  surname15 |     name15 |  group |   month1 |              E5 |
+|  surname16 |     name16 |  group |   month2 |              E4 |
+-----------------------------------------------------------------
+-----------------------
+| Dėstytojas | Kiekis |
+-----------------------
+|  profCred1 | 0      |
+|  profCred4 | 0      |
+|  profCred3 | 0      |
+|  profCred2 | 0      |
+-----------------------
+-----------------------
+| Dėstytojas | Kiekis |
+-----------------------
+|  profCred1 | 0      |
+|  profCred4 | 0      |
+|  profCred3 | 0      |
+|  profCred2 | 0      |
+-----------------------
+-------------------------------------------------------------------------
+| Užduoties kodas | Užduoties pavadinimas | dėstytojas | skirtas laikas |
+-------------------------------------------------------------------------
+|              E1 |                 Name1 |  profCred1 |              1 |
+|              E4 |                 Name4 |  profCred1 |              4 |
+|              E8 |                 Name8 |  profCred1 |              8 |
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+| Užduoties kodas | Užduoties pavadinimas | dėstytojas | skirtas laikas |
+-------------------------------------------------------------------------
+|              E2 |                 Name2 |  profCred4 |              2 |
+|              E3 |                 Name3 |  profCred4 |              3 |
+|              E6 |                 Name6 |  profCred4 |              6 |
+|              E7 |                 Name7 |  profCred4 |              7 |
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+| Užduoties kodas | Užduoties pavadinimas | dėstytojas | skirtas laikas |
+-------------------------------------------------------------------------
+|              E5 |                 Name5 |  profCred3 |              5 |
+|             E10 |                Name10 |  profCred3 |             10 |
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+| Užduoties kodas | Užduoties pavadinimas | dėstytojas | skirtas laikas |
+-------------------------------------------------------------------------
+|              E9 |                 Name9 |  profCred2 |              9 |
+-------------------------------------------------------------------------

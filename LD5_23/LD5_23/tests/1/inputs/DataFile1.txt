@@ -1,0 +1,9 @@
+﻿1
+Apple;200;1.59
+Orange;300;2.00
+Banana;230;1.99
+Watermelon;70;4.60
+Melon;50;3.99
+Pen;200;3.99
+Pencil;300;2.40
+Eraser;100;1.99

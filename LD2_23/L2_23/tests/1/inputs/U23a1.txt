@@ -1,0 +1,16 @@
+﻿surname1;name1;group1;month1;E1
+surname2;name2;group2;month2;E2
+surname3;name3;group1;month2;E3
+surname4;name4;group3;month3;E4
+surname5;name5;group1;month3;E5
+surname6;name6;group2;month1;E6
+surname7;name7;group1;month1;E7
+surname8;name8;group3;month2;E8
+surname9;name9;group2;month1;E9
+surname10;name10;group3;month1;E10
+surname11;name11;group;month1;E9
+surname12;name12;group;month1;E8
+surname13;name13;group;month1;E7
+surname14;name14;group;month3;E6
+surname15;name15;group;month1;E5
+surname16;name16;group;month2;E4

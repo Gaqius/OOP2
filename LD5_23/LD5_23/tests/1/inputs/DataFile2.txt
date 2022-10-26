@@ -1,0 +1,9 @@
+﻿2
+Pen;300;3.69
+Pencil;400;1.40
+Eraser;200;0.99
+Notebook;150;6.90
+Ruler;260;2.50
+Jacket;40;35.99
+Shirt;30;19.99
+Shoes;80;20.69

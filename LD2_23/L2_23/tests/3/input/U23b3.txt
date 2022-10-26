@@ -1,0 +1,2 @@
+﻿E1;Namas;PP;2
+E2;Sodas;BD;3
